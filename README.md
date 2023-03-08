@@ -22,7 +22,11 @@ We, [GAME MAKER], hereby grant permission for you or your organization to live s
 - Streaming platforms:
     - Youtube: Allowed/Forbidden
     - Twitch: Allowed/Forbidden
-    - [NAME]: Allowed/Forbidden
+    - Facebook: Allowed/Forbidden
+    - Instagram: Allowed/Forbidden
+    - Twitcasting: Allowed/Forbidden
+    - Vimeo: Allowed/Forbidden
+    - Other unlisted platforms: Allowed/Forbidden
 - Streamer blacklist:
     - [Some Troll](optional URL to the streamer): [Optional Reason]
 - Extra conditions:
@@ -55,7 +59,10 @@ We, [MOD MAKER], hereby grant permission for you or your organization to live st
 - Streaming platforms:
     - Youtube: Allowed/Forbidden
     - Twitch: Allowed/Forbidden
-    - [NAME]: Allowed/Forbidden
+    - Instagram: Allowed/Forbidden
+    - Twitcasting: Allowed/Forbidden
+    - Vimeo: Allowed/Forbidden
+    - Other unlisted platforms: Allowed/Forbidden
 - Streamer blacklist:
     - [Some Troll](optional URL to the streamer): [Optional Reason]
 - Extra conditions:
