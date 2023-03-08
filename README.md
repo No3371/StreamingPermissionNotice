@@ -7,9 +7,9 @@ The permission notice should be published online and to be fetched and parsed by
 
 # Live Streaming Permission
 
-Permission Notice Version: 1.0
-Last Update Time: 2023/03/08
-Terminated: No
+Permission Notice Version: 1.0  
+Last Update Time: 2023/03/08  
+Terminated: No  
 
 We, [GAME MAKER], hereby grant permission for you or your organization to live stream our game, [GAME NAME], subject to the following conditions:
 
@@ -44,9 +44,9 @@ We reserve the right to terminate this permission at any time, for any reason, i
 
 # Live Streaming Permission (Mod)
 
-Permission Notice Version: 1.0
-Last Update Time: 2023/03/08
-Terminated: No
+Permission Notice Version: 1.0  
+Last Update Time: 2023/03/08  
+Terminated: No  
 
 We, [MOD MAKER], hereby grant permission for you or your organization to live stream our game, [MOD NAME], subject to the following conditions:
 
