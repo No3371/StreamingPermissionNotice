@@ -16,7 +16,7 @@ We, [GAME MAKER], hereby grant permission for you or your organization to live s
 - You must state the version of the game: Yes/No
 - Presenting a modded game in streams: Yes/No
     - You agree to inform your audience the game is not responsible for bugs and unexpected behaviours when it's modded.
-    - You MUST state the full mod list: Yes/No
+    - You must state the full mod list: Yes/No
 - You must not present the mod along with content that are illegal, immmoral or unacceptable in general such as hate speech, harassment, etc.
 - Presenting the game in monetized streams: Allowed/Forbidden
 - Streaming platforms:
@@ -51,7 +51,8 @@ Terminated: No
 We, [MOD MAKER], hereby grant permission for you or your organization to live stream our game, [MOD NAME], subject to the following conditions:
 
 - You agree to accept changes and potential damage to your game saves.
-- The streamer MUST inform your audience the mod is not responsible for bugs and unexpected behaviours when it's used with other mods.
+- You are not allowed to redistribute the mod files.
+- The streamer must inform your audience the mod is not responsible for bugs and unexpected behaviours when it's used with other mods.
 - You must not present the mod along with content that are illegal, immmoral or unacceptable in general such as hate speech, harassment, etc.
 - You must state the full mod list: Yes/No
 - You must state the version of the mod: Yes/No
