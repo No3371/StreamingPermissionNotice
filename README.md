@@ -13,18 +13,18 @@ Terminated: No
 
 We, [GAME MAKER], hereby grant permission for you or your organization to live stream our game, [GAME NAME], subject to the following conditions:
 
-- You must state the version of the game: No
+- You must state the version of the game: Yes/No
 - Presenting a modded game in streams: Yes/No
     - You agree to inform your audience the game is not responsible for bugs and unexpected behaviours when it's modded.
-    - You MUST state the full mod list: Yes
+    - You MUST state the full mod list: Yes/No
 - You must not present the mod along with content that are illegal, immmoral or unacceptable in general such as hate speech, harassment, etc.
-- Presenting the game in monetized streams: Allowed
+- Presenting the game in monetized streams: Allowed/Forbidden
 - Streaming platforms:
-    - Youtube: Allowed
-    - Twitch: Allowed
-    - [NAME]: Forbidden
+    - Youtube: Allowed/Forbidden
+    - Twitch: Allowed/Forbidden
+    - [NAME]: Allowed/Forbidden
 - Streamer blacklist:
-    - [Some Troll](optional URL to the streamer): [Reason]
+    - [Some Troll](optional URL to the streamer): [Optional Reason]
 - Extra conditions:
     - (Conditions that are does not fit in above items)
 
@@ -49,15 +49,15 @@ We, [MOD MAKER], hereby grant permission for you or your organization to live st
 - You agree to accept changes and potential damage to your game saves.
 - The streamer MUST inform your audience the mod is not responsible for bugs and unexpected behaviours when it's used with other mods.
 - You must not present the mod along with content that are illegal, immmoral or unacceptable in general such as hate speech, harassment, etc.
-- You must state the full mod list: Yes
-- You must state the version of the mod: No
-- Presenting the mod in monetized streams: Allowed
+- You must state the full mod list: Yes/No
+- You must state the version of the mod: Yes/No
+- Presenting the mod in monetized streams: Allowed/Forbidden
 - Streaming platforms:
-    - Youtube: Allowed
-    - Twitch: Allowed
-    - [NAME]: Forbidden
+    - Youtube: Allowed/Forbidden
+    - Twitch: Allowed/Forbidden
+    - [NAME]: Allowed/Forbidden
 - Streamer blacklist:
-    - [Some Troll](optional URL to the streamer): [Reason]
+    - [Some Troll](optional URL to the streamer): [Optional Reason]
 - Extra conditions:
     - (Conditions that are does not fit in above items)
 
