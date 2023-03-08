@@ -1,11 +1,13 @@
 # LiveStreamingPermissionNotice
-An proposal of standard live streaming permission for game content creators to allow streamers to stream their creation.
+This is a proposal of standard permission notices for game makers and mod makers to allow streamers to stream their creation.
 
+The permission notice should be published online and to be fetched and parsed by automatic tools that help streamer check if they are qualified to stream the game/mod, and help them stay up-to-date in case of changes.
 
 ---
 
 # Live Streaming Permission
 
+Permission Notice Version: 1.0
 Last Update Time: 2023/03/08
 Terminated: No
 
@@ -38,6 +40,7 @@ We reserve the right to terminate this permission at any time, for any reason, i
 
 # Live Streaming Permission (Mod)
 
+Permission Notice Version: 1.0
 Last Update Time: 2023/03/08
 Terminated: No
 
